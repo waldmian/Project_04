@@ -1,5 +1,5 @@
 """
-main.py: čtvrtý projekt do Engeto Online Python Akademie
+main.py: čtvrtý projekt do Engeto Online Tester with Python Akademie
 
 author: Anna Waldhansová
 email: annaw@email.cz
